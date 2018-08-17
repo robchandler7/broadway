@@ -1,5 +1,4 @@
 *{
-  text-align: center;
   font-family: Helvetica;
 }
 
@@ -33,6 +32,11 @@ p{
   background-size: 2000px;
   font-size: 18px;
   color: white;
+  text-align: center;
+}
+
+.process{
+  text-align: center;
 }
 
 .lilbanner{
@@ -41,12 +45,20 @@ p{
   background-size: 3000px;
   font-size: 23px;
   color: white;
+  text-align: center;
+}
+
+.bottomhalf{
+  text-align: center;
+}
+
+.email{
+  color: rebeccapurple;
 }
 
 .bottombanner{
   background-color: lightgray;
   color: white;
-  text-align: left;
 }
 
 .copyright{
